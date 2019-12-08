@@ -3,9 +3,9 @@
 ## Team Rampage
 
 ### Team Members
-Anifowose Gbolahan, akinstiles349@gmail.com
-Kolajo Inioluwa
-Opadola temiloluwa
+- Anifowose Gbolahan, akinstiles349@gmail.com
+- Kolajo Inioluwa
+- Opadola temiloluwa
 
 # Problem
 The use of certificate and qualifications has been a barrier in different aspect of occupations.People with little or no
@@ -20,6 +20,27 @@ opened to different choices of job oopurtunities
 Nodejs, Reactjs, Mongodb(mlab), REST, WebSocket
 
 # Benefits
-To  bring out the talent and best in people
-To reduce unemployment
-A good resource that enables people to come together and interact
+- To  bring out the talent and best in people
+- To reduce unemployment
+- A good resource that enables people to come together and interact
+
+# Top Project Directory Layout
+    
+# How to setup project and run locally
+```
+git clone https://github.com/Teamrampage/Naijahacks-watch/
+```
+
+### Install all dependencies
+Using yarn
+
+```
+yarn install
+```
+
+### Start watching the file and changes
+Using yarn
+
+```
+yarn run watch
+```
